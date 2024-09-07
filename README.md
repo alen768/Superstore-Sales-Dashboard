@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard and Sales Forecast
 
-This repository contains a Power Bi dashboard that visualizes Superstore sales data, along with sales forecast using time series analysis of 15-days. 
+-This repository contains a Power Bi dashboard that visualizes Superstore sales data, along with sales forecast using time series analysis of 15-days.
 -Both '.pbix' file and PDF is uploaded.
 
 ## Objective
